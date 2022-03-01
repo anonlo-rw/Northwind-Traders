@@ -6,3 +6,4 @@ This program requires the northwind database that connects too and retrieves dat
 # Requirements
 - Microsoft SQL Server
 - Create a database, querying the SQL that can be found in the SQL folder
+- Run without debug mode in Visual Studio
