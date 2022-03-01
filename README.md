@@ -7,3 +7,7 @@ This program requires the northwind database that connects too and retrieves dat
 - Microsoft SQL Server
 - Create a database, querying the SQL that can be found in the SQL folder
 - Run without debug mode in Visual Studio
+- 
+![](images/categories.png)
+![](images/products.png)
+![](images/orders.png)
