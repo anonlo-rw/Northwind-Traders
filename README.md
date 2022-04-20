@@ -5,7 +5,7 @@ This program requires the northwind database, than connecting to it and retrieve
 
 # Requirements
 - Microsoft SQL Server
-- Create a database, querying the SQL that can be found in the SQL folder
+- Create a database, using the SQL code that can be found in the SQL folder
 - Run without debug mode in Visual Studio
 
 ![](images/categories.png)
